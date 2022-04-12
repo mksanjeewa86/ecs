@@ -1,3 +1,4 @@
+# run nodejs server using ECR, ECS and fargate
 ## The Node.js app to deploy
 Enter the following in your terminal:
 create a new directory
