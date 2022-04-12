@@ -7,6 +7,6 @@ app.get('/', (req, res) => {
   res.send('Welcome from a Node.js app!')
 })
 
-app.listen(8080, () => {
-  console.log('Server is up on 8080')
+app.listen(3000, () => {
+  console.log('Server is up on 3000')
 })

@@ -22,8 +22,6 @@ touch server.js
 ```
 Open server.js and paste the code below into it:
 ```
-server.js
-
 const express = require('express')
 const app = express()
 
@@ -32,7 +30,7 @@ res.send('Welcome from a Node.js app!')
 })
 
 app.listen(3000, () => {
-console.log('Server is up on 3000')
+console.log('Server is up on 3030')
 })
 ```
 Start the app with:
